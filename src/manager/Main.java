@@ -62,5 +62,6 @@ public class Main {
 			System.out.println(tmp);
 		}
 		System.out.println("전체 삭제 후 전체조회완료");
+		// git study - second commit practice
 	}
 }	
