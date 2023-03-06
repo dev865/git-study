@@ -5,7 +5,9 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-// master
+
+// ver.2.2
+
 public class Main {
 	public static void main(String[] args) {
 		Map<Integer, MemberVo> db = new HashMap<>();
@@ -64,7 +66,11 @@ public class Main {
 		System.out.println("전체 삭제 후 전체조회완료");
 		// git study - second commit practice
 
-		// master code
+		// add ver 2.1 code
 		// blah blah
+
+		// add ver 2.2 code
+		// blah~~ blah~~
+
 	}
 }	
